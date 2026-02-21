@@ -1,1 +1,0 @@
-"""BMC Helix ITSM plugin."""
